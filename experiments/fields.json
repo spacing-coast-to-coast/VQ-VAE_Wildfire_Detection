@@ -1,0 +1,79 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "experiment_name": "eaton",
+                "temporal_extent": [
+                    "2024-10-01",
+                    "2025-02-28"
+                ]
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -118.12,
+                            34.2
+                        ],
+                        [
+                            -118.08,
+                            34.2
+                        ],
+                        [
+                            -118.08,
+                            34.16
+                        ],
+                        [
+                            -118.12,
+                            34.16
+                        ],
+                        [
+                            -118.12,
+                            34.2
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "experiment_name": "pacific_palisades",
+                "temporal_extent": [
+                    "2024-10-01",
+                    "2025-02-28"
+                ]
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -118.565,
+                            34.09
+                        ],
+                        [
+                            -118.5,
+                            34.09
+                        ],
+                        [
+                            -118.5,
+                            34.03
+                        ],
+                        [
+                            -118.565,
+                            34.03
+                        ],
+                        [
+                            -118.565,
+                            34.09
+                        ]
+                    ]
+                ]
+            }
+        }
+    ]
+}

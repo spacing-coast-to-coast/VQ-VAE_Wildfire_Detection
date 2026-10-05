@@ -1,0 +1,41 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "temporal_extent": [
+                    "2024-10-01",
+                    "2025-02-28"
+                ]
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -118.12,
+                            34.2
+                        ],
+                        [
+                            -118.08,
+                            34.2
+                        ],
+                        [
+                            -118.08,
+                            34.16
+                        ],
+                        [
+                            -118.12,
+                            34.16
+                        ],
+                        [
+                            -118.12,
+                            34.2
+                        ]
+                    ]
+                ]
+            }
+        }
+    ]
+}
